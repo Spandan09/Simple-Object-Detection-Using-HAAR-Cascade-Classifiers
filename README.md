@@ -1,4 +1,4 @@
-# Simple-Object-Detection-Using-HAAR-Cascade-Classifers
+# Simple-Object-Detection-Using-HAAR-Cascade-Classifiers
 This project consists of two mini projects. Both the mini projects uses HAAR Cascade Classifiers for specific object detection like face, eye, pedestrians and cars.<br/>
 A Haar Cascade is basically a classifier which is used to detect the object for which it has been trained for, from the source. The Haar Cascade is trained by superimposing the positive image over a set of negative images.<br/><br/>
 For example- If we are training HAAR cascade for classifying faces then positive images would be the images with human faces in it and negative images would be images without human faces with it.<br/><br/>
